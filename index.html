@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piedra, Papel o Tijera</title>
+    <meta name="author" content="Nico">
+    <meta name="description" content="Juego de piedr, papel o tijera">
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header> 
+        <h1>Piedra Papel Tijera</h1>
+    </header>
+
+    <main>
+        <section class="tablero">
+            <div id="user__badge" class="tablero__badge">USER</div>
+            <div id="compu__badge" class="tablero__badge">COMPU</div>
+            <div class="tablero__resultado"><span class="user_score" id="user-score">0</span> : <span class="compu_score" id="compu-score">0</span></div>
+        </section>
+        <section class="juego">
+            <p class="ganador">Papel mata Piedra, ¡Eres el Ganador!</p>
+            <div class="imagenes">
+                <h3 class="imagenes__boton" id="piedra">✊</h2>
+                <h3 class="imagenes__boton" id="papel">✋</h2>
+                <h3 class="imagenes__boton" id="tijera">✌</h2>
+            </div>
+            <p class="juego__p">Realiza tu eleccion</p>
+        </section>
+    </main>
+    <script src="app.js" charset="UTF-8"></script>
+</body>
+</html>
