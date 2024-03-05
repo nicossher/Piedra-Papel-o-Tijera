@@ -1,18 +1,18 @@
-# Piedra, Papel o Tijera en JavaScript
-¡Bienvenido al juego de Piedra, Papel o Tijera desarrollado en JavaScript! Disfruta de este juego clásico directamente desde tu navegador.
+# Rock, Paper, Scissors in JavaScript
+Welcome to the Rock, Paper, Scissors game developed in JavaScript! Enjoy this classic game directly from your browser.
 
-### Funcionalidades
-- Elige entre Piedra, Papel o Tijera.
-- La computadora seleccionará aleatoriamente su opción.
-- Visualización clara de los resultados.
+### Features
+- Choose between Rock, Paper or Scissors.
+- The computer will randomly select his option.
+- Clear visualization of the results.
 
-### Cómo jugar
-- Descarga los archivos de este repositorio.
-- Abre el archivo index.html en tu navegador.
-- Selecciona tu opción: Piedra, Papel o Tijera haciendo clic en el botón correspondiente.
-- Observa el resultado y diviértete jugando.
+### How to Play
+- Download the files from this repository.
+- Open the index.html file in your browser.
+- Select your choice: Rock, Paper, or Scissors by clicking on the corresponding button.
+- Watch the result and have fun playing.
 
-### Tecnologías
+### Technologies
 - HTML5
 - CSS3
 - JavaScript
